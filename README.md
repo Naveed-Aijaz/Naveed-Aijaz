@@ -1,200 +1,70 @@
- 🚀 About Me
-Hello! I'm [Your Name], a self-taught/passionate Web Developer based in [Your City]. My coding journey started with a simple "Hello World" in HTML, and today I build full-stack web applications that solve real-world problems.
 
-I believe in writing code that is not just functional, but also clean and maintainable. When I'm not coding, you'll find me  reading tech blogs 
+ 
+ 
+ # 👋 Hey, I'm Ali Aijaz  
 
-🛠️ I am currently working on: An e-commerce dashboard using Next.js.📚 I am currently learning: System Design & TypeScript.
+💻 Web Developer — Building fast, modern, and responsive web applications using JavaScript and modern frontend tools.
 
+---
 
+## 🚀 Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
+---
 
-👋 Hey, I'm [YOUR NAME]
-Full-Stack Web Developer — building fast, beautiful, and accessible web experiences.
+## 📫 Connect With Me
 
-Profile ViewsTyping SVG
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🐦 Twitter: https://twitter.com/yourprofile  
+- 📧 Email: yourmail@gmail.com  
 
-🚀 What I Do
-/frontend    →  Pixel-perfect UIs that users love/backend     →  Scalable APIs and server logic/database    →  Data modeling, queries, optimization/deploy      →  Docker, CI/CD, cloud hosting
-🛠️ Tech Stack
+---
 
+## ⭐ Thanks for Visiting
 
-Frontend
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Tailwind CSS
-Bootstrap
+If you like my work, consider giving a ⭐ to my repositories!
 
-Backend
-Node.js
-Express.js
-Python
-PHP
 
-Database & Tools
-MongoDB
-MySQL
-PostgreSQL
-Git
-Docker
-VS Code
 
 
 
-📊 GitHub Stats & Activity
 
 
-GitHub Streak
 
-GitHub Stats
 
-Top Languages
 
 
 
 
 
-GitHub Activity Graph
 
 
 
-📫 Connect With Me
 
 
-LinkedIn
-Twitter/X
-Portfolio
-Email
-Discord
 
 
-
-
-
-Thank You
-
-⭐ Thanks for visiting! Drop a star if you like my work.
-
-
-```
-
-⚙️ Setup Steps
-Step 1 — YOUR-GITHUB-USERNAME ko replace karo apne real username se (4 jagah hai)
-
-Step 2 — [YOUR NAME] mein apna naam daalo
-
-Step 3 — Social links ke neeche wale placeholders bhi update karo:
-
-YOUR-LINKEDIN → linkedin.com/in/ ke baad wala part
-YOUR-TWITTER → twitter handle
-your-portfolio.com → tumhari site
-your-email@gmail.com → real email
-YOUR-DISCORD → discord user ID
-Step 4 — Jo tech tum use nahi karte (jaise PHP ya Python agar nahi aate), unki lines delete kar do. Aur agar koi missing hai to batao, add kar dunga.
-
-Step 5 — GitHub pe ek naya repository banao jiska naam exactly tumhara username ho (e.g. username/username), isme README.md file daalo — ye tumhara profile README ban jayega.
-
-Pro Tip — Streak stats show karne ke liye tumhe ghpvc.io pe already visit karna padega ek baar, views counter activate hone ke liye. Baaki sab auto-work karega.
-
-
-2/2
-
-
-
-readme mein kya likhun? 
-
-
-Thought Process
-
-
-
-mein usernAME BATA RAHA hun ap bana kar do complete, [Ali-Aijaz] 
-
-
-2/2
-
-Yeh lo tumhara poora ready README — bas isko copy-paste karna hai. Maine sab jagah Ali-Aijaz set kar diya hai.
-
-Note: Maine social links (LinkedIn, Twitter, Portfolio) mein # lagaya hai. Jab tumhari IDs ban jaayin, toh wahan # hata ke apni real link daal dena.
-
-👋 Hey, I'm Ali Aijaz
-Full-Stack Web Developer — building fast, beautiful, and accessible web experiences.
-
-Profile ViewsTyping SVG
-
-🚀 What I Do
-/frontend    →  Pixel-perfect UIs that users love/backend     →  Scalable APIs and server logic/database    →  Data modeling, queries, optimization/deploy      →  Docker, CI/CD, cloud hosting
-🛠️ Tech Stack
-
-
-Frontend
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Tailwind CSS
-Bootstrap
-
-Backend
-Node.js
-Express.js
-Python
-PHP
-
-Database & Tools
-MongoDB
-MySQL
-PostgreSQL
-Git
-Docker
-VS Code
-
-
-
-📊 GitHub Stats & Activity
-
-
-GitHub Streak
-
-GitHub Stats
-
-Top Languages
-
-
-
-
-
-GitHub Activity Graph
-
-
-
-📫 Connect With Me
-
-
-LinkedIn
-Twitter/X
-Portfolio
-Email
-Discord
-
-
-
-
-
-Thank You
-
-⭐ Thanks for visiting! Drop a star if you like my work.
-
-
-```
